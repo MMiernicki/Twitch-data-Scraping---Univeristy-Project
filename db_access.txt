@@ -1,0 +1,3 @@
+host: http://193.187.69.29/pgadmin4/
+u: cdv@wp.pl
+p: Nowypass12
